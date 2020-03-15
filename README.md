@@ -7,3 +7,5 @@ master上进行操作
 创建并切换到dev分支
 
 手动合并
+
+merge 实战 dev
